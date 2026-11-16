@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+.ruff_cache/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+backend/storage/*
+!backend/storage/.gitkeep

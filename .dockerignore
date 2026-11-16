@@ -1,0 +1,12 @@
+.venv/
+.git/
+.pytest_cache/
+.ruff_cache/
+.env
+**/.env
+
+**/__pycache__/
+**/*.py[cod]
+
+backend/storage/*
+!backend/storage/.gitkeep
